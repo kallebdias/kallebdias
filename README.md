@@ -22,5 +22,3 @@
   <a href="https://www.reddit.com/user/kalleb_dias" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
   <a href="https://tiktok.com/kalleb_dias" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/kallebdias/kallebdias/blob/output/github-contribution-grid-snake.svg)
