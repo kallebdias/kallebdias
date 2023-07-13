@@ -10,7 +10,7 @@
 ### Tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img width="150px" src="https://skillicons.dev/icons?i=html,css,pr" />
+    <img width="150px" src="https://skillicons.dev/icons?i=html,css,js,pr" />
   </a>
 </p>
 
