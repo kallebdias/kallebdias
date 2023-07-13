@@ -7,9 +7,10 @@
 <!-- icones: https://github.com/tandpfun/skill-icons#readme -->
 <!-- icones: https://home.aveek.io/GitHub-Profile-Badges/ -->
 
+### Tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img width="250px" src="https://skillicons.dev/icons?i=html,css,javascript,cpp,py,react" />
+    <img width="150px" src="https://skillicons.dev/icons?i=html,css,pr" />
   </a>
 </p>
 
