@@ -7,7 +7,7 @@
 <!-- icones: https://github.com/tandpfun/skill-icons#readme -->
 <!-- icones: https://home.aveek.io/GitHub-Profile-Badges/ -->
 
-### skills
+### SKILLS
 <p>
   <a href="https://skillicons.dev">
     <img width="150px" src="https://skillicons.dev/icons?i=html,css,js,cpp,pr" />
